@@ -18,10 +18,10 @@ function App() {
           <p className="header-title">Flucky</p>
         </div>
         <div className="main">
-          <h1 className="title">{Vocab[randomNum].FIELD1}</h1>
+          <h1 className="title">{Vocab[randomWords].FIELD1}</h1>
           <div className="abjective-holder">
             <p className="abjective">Abjective:</p>
-            <p className="meaning"> {Vocab[randomNum].FIELD2}</p>
+            <p className="meaning"> {Vocab[randomWords].FIELD2}</p>
           </div>
         </div>
         <button className="button-64" onClick={randomGenerator}>
