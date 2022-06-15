@@ -9,6 +9,10 @@
     "48": "fluckyFav48.ico",
     "128": "fluckyFav128.ico"
   },
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
   "chrome_url_overrides": {
     "newtab": "index.html"
   }

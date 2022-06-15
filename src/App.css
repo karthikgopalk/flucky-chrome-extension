@@ -26,9 +26,12 @@
   flex-direction: row;
   align-items: center;
 }
+.header-icon {
+  margin-left: 10px;
+}
 .header-title {
   cursor: pointer;
-  margin-left: 5px;
+  margin-left: 3px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .title {

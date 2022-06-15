@@ -14,7 +14,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="header-logo">
-          <img src={logo} alt="Flucky logo" width="25px" height="25px" />
+          <img
+            className="header-icon"
+            src={logo}
+            alt="Flucky logo"
+            width="25px"
+            height="25px"
+          />
           <p className="header-title">Flucky</p>
         </div>
         <div className="main">
