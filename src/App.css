@@ -3,7 +3,6 @@
 }
 
 .App-header {
-  background-color: #eeeeee;
   font-family: "helvetica", sans-serif;
   font-size: 16px;
   transform: translate3d(0, 0, 0);
@@ -21,10 +20,8 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
   text-align: start;
   font-weight: bold;
-  margin-left: 30px;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -115,7 +112,6 @@ a:active {
 
 .footer {
   position: fixed;
-  left: 0;
   bottom: 0;
   width: 100%;
   text-align: center;
